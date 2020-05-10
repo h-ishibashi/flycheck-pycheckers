@@ -566,7 +566,7 @@ class PyflakesRunner(LintRunner):
 
         return data
 
-
+# TODO
 class Flake8Runner(LintRunner):
     """Flake8 has similar output to Pyflakes
     """
